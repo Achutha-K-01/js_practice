@@ -1,3 +1,4 @@
 # js_practice
 This is Achutha.
-Rashmi is here
+Rashmi is here.
+How are You
